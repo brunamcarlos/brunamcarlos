@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunamcarlos
 - 👀 I’m interested in medical physics and machine learning
-- 🌱 I’m currently learning about data in health sciences and neural networks
+- 🌱 I’m currently learning about data visualization in health sciences and neural networks
 - 📫 brunamcarlos@gmail.com
 
 <!---
